@@ -1,0 +1,24 @@
+{
+    "manifestVersion": 1,
+    "name": "AlianZip-RuModROR2",
+    "authorName": "AlianZip",
+    "websiteUrl": "",
+    "displayName": "RuModROR2",
+    "description": "Основной переводчик сборки",
+    "gameVersion": "",
+    "networkMode": "",
+    "packageType": "",
+    "installMode": "",
+    "installedAtTime": 0,
+    "loaders": [],
+    "dependencies": [],
+    "incompatibilities": [],
+    "optionalDependencies": [],
+    "versionNumber": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "enabled": true,
+    "icon": "icon.png"
+}
